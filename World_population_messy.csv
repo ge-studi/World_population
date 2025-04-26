@@ -1,0 +1,17 @@
+Country,Population,Area_km2,Density,Growth Rate %,Rank,Notes
+Chnia,1425000000,9596961,148,0.03,1,typo in country name
+India, ,3287263,432,0.97,2,missing population
+United States,339000000,9833520,34,0.59,3,
+Indonesia,277000000,1904569,,1.07,4,missing density
+Pakistan,240000000,881913,272,1.98,5,
+Nigeria,223000000,923768,241,2.53,6,
+Brazil,216000000,8515767,25,0.52,7,
+Bangladesh,172000000,147570,1165,1.11,8,
+Russia,abc,17098242,8,-0.39,9,wrong population type
+Mexico,127000000,1964375,65,1.03,10,
+Canada,38000000,9984670,4,0.74,11,,
+Australia,26000000,,3,1.18,12,missing area
+Germany,84000000,357022,232,0.32,13,
+France,68000000,551695,119,0.29,14,
+Egypt,110000000,1002450,110,1.79,15,
+China,1425000000,9596961,148,0.03,1,duplicate
